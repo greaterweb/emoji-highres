@@ -6,6 +6,8 @@ The original image sources were taken from [emoji-extractor](https://github.com/
 I'm sure someone at some point will be looking for emoji icons with unicode file name, my hope is they will find this repository!
 
 # Unknown Unicode
+**UPDATE:** Useful info on this icon provided in [issue #1](https://github.com/greaterweb/emoji-highres/issues/1). Thank you to [@rborn](https://github.com/rborn)!
+
 There remains a single image from the [emoji-extractor](https://github.com/tmm1/emoji-extractor) repository I was unable to find a unicode equivalent of. I've looked a number of times at the special characters list in Mountain Lion and the emoji font menus on iOS and fail to see it.
 
 ![Unknown Unicode](https://raw.github.com/greaterweb/emoji-highres/master/unknown.png)
